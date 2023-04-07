@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sc0609
-- 👀 I’m interested in learning new things and leaving them in middle
-- 🌱 I’m currently learning ... web dev , c++
-- 💞️ I’m looking to collaborate on GTA6
-- 📫 How to reach me ...
+- 👋 Hi, I’m sarthak
+- 👀 I’m interested in learning new things and leaving them in middle(well sometimes)
+- 🌱 I’m currently learning ... web dev , c++ 
 
 <!---
 sc0609/sc0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
