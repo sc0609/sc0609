@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sarthak
-- 👀 I’m interested in learning new things and leaving them in middle(well sometimes)
+- 👀 I’m interested in learning new things /
 - 🌱 I’m currently learning ... web dev , c++ 
 
 <!---
